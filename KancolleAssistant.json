@@ -1,0 +1,12 @@
+{
+    "version": "2.5.6",
+    "url": "https://kca-1300858941.file.myqcloud.com/%28%E9%9D%9E%29%E6%8F%90%E5%8A%A9%E6%89%8B.zip",
+    "bin": "KanColleViewer.exe",
+    "homepage": "https://www.acggate.net/",
+    "shortcuts": [
+        [
+            "KanColleViewer.exe",
+            "非提助手"
+        ]
+    ]
+}
